@@ -1,0 +1,1 @@
+Allow external applications access PIM data on android device
